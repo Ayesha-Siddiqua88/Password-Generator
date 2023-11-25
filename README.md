@@ -8,6 +8,6 @@ This project is built with React+Vite🛠️
 3. Choose to include or exclude special characters.<br>
 4. Copy generated passwords with a click.<br>
 
-Try it out here: 
+Try it out here: https://secure-password-gen.netlify.app/
 
 Happy password generating! 🌐🔐
